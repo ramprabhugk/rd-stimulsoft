@@ -13,5 +13,9 @@
     "stimulsoft/stimulsoft.viewer.office2013.whiteblue.css"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ramprabhugk/rd-stimulsoft"
+  },
   "dependencies": {}
 }
