@@ -1,0 +1,17 @@
+{
+  "name": "rd-stimulsoft",
+  "homepage": "https://github.com/ramprabhugk/rd-stimulsoft",
+  "authors": [
+    "ramprabhugk <ramprabhugk@gmail.com>"
+  ],
+  "description": "",
+  "main": [
+    "stimulsoft/stimulsoft.designer.js",
+    "stimulsoft/stimulsoft.designer.office2013.whiteblue.css",
+    "stimulsoft/stimulsoft.reports.js",
+    "stimulsoft/stimulsoft.viewer.js",
+    "stimulsoft/stimulsoft.viewer.office2013.whiteblue.css"
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}
